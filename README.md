@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastAPI Template
 
 ## Built-In Features:
@@ -165,3 +166,6 @@ sh ./scripts/setup.sh
 ```
 
 6. Change AWS Lambda function URL permissions in AWS Console
+=======
+# fastapi-template
+>>>>>>> origin/main
